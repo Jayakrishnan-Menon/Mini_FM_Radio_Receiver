@@ -28,5 +28,36 @@ A project, where we created an FM Receiver using an Arduino UNO, an LCD and a TE
 </table>
 
 <h2>Working Flowchart</h2>
-<img width='380' src=https://github.com/user-attachments/assets/0d24d33e-86a5-4b55-b371-1350201b94f1>
+<table>
+  <tr>
+    <td><img width='380' src=https://github.com/user-attachments/assets/0d24d33e-86a5-4b55-b371-1350201b94f1></td>
+    <td> 
+      <p>The Diagram on the left, demonstrates the use of the mode button of the radio.</p>
+      <p>The Frequency up and Down buttons can be pressed to traveerse through the FM Radio spectrum. Long presses of these buttons change the Frequency faster.</p>
+      <p>The Radio can be muted by simultaneously pressing both the Frequency Up and Down buttons.</p>
+      <p>The backlight of the LCD can be controlled using the 4th button, to reduce power consumption.</p>
+    </td>
+  </tr>
+</table>
+
+<h2>Demonstration</h2>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MVRYTmz8tXI
+" target="_blank"><img src="https://github.com/user-attachments/assets/4a57d954-1f8e-43a6-bc15-49ec93a9025d" 
+alt="IMAGE ALT TEXT HERE" border="10" /></a>
+
+<h2>Sample Images</h2>
+<table>
+  <tr>
+    <td><img width='600' src=https://github.com/user-attachments/assets/2fde6942-d9ef-46fa-b643-16465358652b></td>
+    <td><img width='600' src=https://github.com/user-attachments/assets/ca8f1b05-ecac-401d-8c3b-e10e8e9d9f25></td>
+  </tr>
+</table>
+
+<h2>Discussion</h2>
+<p>There is a huge scope for improvement in this project.</p>
+<p>We had faced resource constraints and deadlines to meet while making this project.</p>
+<p>Not to mention, this was our first time working on an embedded system in general and an Arduino Board in particular.</p>
+<p>Hence the code written for this lacks modularity, is not easily understandable and the system runs quite slow.</p>
+<p>However, we could achieve some level of success while taking and we learnt a lot in the making of this project.</p>
+
 
