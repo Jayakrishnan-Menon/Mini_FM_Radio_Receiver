@@ -23,8 +23,6 @@ A project, where we created an FM Receiver using an Arduino UNO, an LCD and a TE
   <tr>
     <td><img width='600' src=https://github.com/user-attachments/assets/19c4215e-8380-4fb0-be09-20e7260ea08d></td>
     <td><img width='380' src=https://github.com/user-attachments/assets/86cbb11c-ca35-4cf0-bb4c-1637fe3a2f4c></td>
-  </tr>
-  <tr>
-    <td><img width='600' src=https://github.com/user-attachments/assets/3d7713b7-4a8f-4a0f-822d-7c5659946ef6></td>
+    <td><img width='660' src=https://github.com/user-attachments/assets/3d7713b7-4a8f-4a0f-822d-7c5659946ef6></td>
   </tr>
 </table>
