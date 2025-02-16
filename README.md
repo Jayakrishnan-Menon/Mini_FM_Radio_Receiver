@@ -58,6 +58,6 @@ alt="IMAGE ALT TEXT HERE" border="10" /></a>
 <p>We had faced resource constraints and deadlines to meet while making this project.</p>
 <p>Not to mention, this was our first time working on an embedded system in general and an Arduino Board in particular.</p>
 <p>Hence the code written for this lacks modularity, is not easily understandable and the system runs quite slow.</p>
-<p>However, we could achieve some level of success while taking and we learnt a lot in the making of this project.</p>
+<p>However, we could achieve some level of success and we learnt a lot during the design and implementation of this project.</p>
 
 
