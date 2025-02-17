@@ -15,10 +15,10 @@ A project, where we created an FM Receiver using an Arduino UNO, an LCD and a TE
 <h2>Connections</h2>
 <p>Connect the 5v, GND and I2C pins (SDA and SCL, same as A4 and A5 pins) of the Arduino to the VCC, GND and I2C pins of the LCD and the TEA5767 respectively.</p>
 <p>Connect 4 push buttons to digital pins 10, 11, 12, 13; the other pins of the push buttions must be connected with ground.</p>
-<p>Button connected to pin 10 is the mode button.</p>
-<p>Button connected to pin 11 controls the Backlight of the LCD.</p>
-<p>Button connected to pin 12 is the button to increment the frequency.</p>
-<p>Button connected to pin 13 is the button to increment the frequency.</p>
+<p>The button connected to pin 10 is the mode button.</p>
+<p>The button connected to pin 11 controls the Backlight of the LCD.</p>
+<p>The button connected to pin 12 is the button to increment the frequency.</p>
+<p>The button connected to pin 13 is the button to increment the frequency.</p>
 <table>
   <tr>
     <td><img width='600' src=https://github.com/user-attachments/assets/19c4215e-8380-4fb0-be09-20e7260ea08d></td>
