@@ -1,4 +1,4 @@
-<h1># Mini_FM_Radio_Receiver</h1>
+<h1>Mini_FM_Radio_Receiver</h1>
 A project, where we created an FM Receiver using an Arduino UNO, an LCD and a TEA5767 Module.
 
 <h2>Hardware Components Required:</h2>
