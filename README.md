@@ -40,7 +40,7 @@ A project, where we created an FM Receiver using an Arduino UNO, an LCD and a TE
   </tr>
 </table>
 
-<h2>Demonstration</h2>
+<h2>Demonstration Video</h2>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MVRYTmz8tXI
 " target="_blank"><img src="https://github.com/user-attachments/assets/4a57d954-1f8e-43a6-bc15-49ec93a9025d" 
 alt="IMAGE ALT TEXT HERE" border="10" /></a>
